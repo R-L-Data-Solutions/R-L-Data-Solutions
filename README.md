@@ -1,5 +1,11 @@
 # R&L Data Solutions
 
+## Smart Analytics Dashboard
+
+![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 Transform your business data into actionable insights with R&L Data Solutions' Smart Analytics Dashboard.
 

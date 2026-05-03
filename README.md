@@ -1,51 +1,75 @@
-# R&L Data Solutions
+# 👋 Fala aí, eu sou o Ronaldo
 
-## Smart Analytics Dashboard
+Tenho 42 anos, comecei na tecnologia há 4 anos e hoje atuo com **Dados, Machine Learning e Automação com IA**.
 
-![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+Minha missão é simples:
+👉 transformar dados e tecnologia em soluções que geram resultado real.
 
+---
 
-Transform your business data into actionable insights with R&L Data Solutions' Smart Analytics Dashboard.
+## 🚀 O que eu faço hoje
 
-### 🚀 Features
+* 📊 Análise de Dados (Python, SQL, BI)
+* 🤖 Machine Learning aplicado
+* ⚙️ Engenharia de Dados (ETL, pipelines, cloud)
+* 💬 Automação com IA (chatbots, assistentes inteligentes)
+* 📱 Integração com APIs (WhatsApp, sistemas, etc.)
 
-- **Interactive Dashboards**: Real-time data visualization
-- **Automated Analysis**: Quick insights from your data
-- **Business Intelligence**: KPIs and metrics that matter
-- **Easy Integration**: Works with CSV, Excel, and database sources
+---
 
-### 🛠️ Tech Stack
+## 🔥 Projetos recentes
 
-- Python 3.9+
-- Streamlit
-- Pandas
-- Plotly
-- SQLite
+### 🤖 Deltinha AI
 
-### 📊 Quick Start
+Assistente inteligente para academias:
 
-```bash
-# Clone the repository
-git clone https://github.com/R-L-Data-Solutions/rl-analytics-dashboard.git
+* Atendimento automático 24h
+* Integração com WhatsApp
+* Sugestão de aulas e horários
+* Captação de leads
 
-# Navigate to project directory
-cd rl-analytics-dashboard
+👉 Projeto focado em **resolver problema real de negócio**
 
-# Install dependencies
-pip install -r requirements.txt
+---
 
-# Run the dashboard
-streamlit run app.py
-```
+## 🧠 Minha mentalidade
 
-### 🤝 About R&L Data Solutions
+Não me interessa só código.
 
-We combine decades of business experience with cutting-edge technology to deliver practical, data-driven solutions for your business.
+Me interessa:
 
-  
+* resolver problemas reais
+* entender o negócio
+* gerar valor com dados
 
-### 📝 License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📈 Momento atual
+
+Estou focado em:
+
+* evoluir como profissional de dados
+* construir soluções próprias
+* validar produtos com IA no mercado
+
+---
+
+## 🤝 Vamos conversar?
+
+Se você quer:
+
+* automatizar processos
+* usar dados de forma inteligente
+* ou tirar uma ideia do papel
+
+👉 me chama, gosto de construir coisas úteis.
+
+---
+
+## ⚡ Curiosidade
+
+Já perdi 30kg correndo e hoje levo essa mesma disciplina para tecnologia.
+
+---
+
+**“Mais importante que saber código é saber resolver problema.”**

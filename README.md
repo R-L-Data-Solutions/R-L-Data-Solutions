@@ -2,6 +2,19 @@
 
 Tenho 42 anos, comecei na tecnologia há 4 anos e hoje atuo com **Dados, Machine Learning e Automação com IA**.
 
+## 🎓 Formação
+
+* Tecnólogo em Análise e Desenvolvimento de Sistemas
+* Pós-graduação em Engenharia de Dados
+* Pós-graduação em Ciência de Dados & Machine Learning
+*  Pós-graduação em Arquitetura e Governança de Dados
+* Cursos complementares em Estatística e Probabilidade (USP / Veduca)
+
+---
+
+Mais importante que os títulos, aplico esse conhecimento em soluções reais e projetos práticos.
+
+
 Minha missão é simples:
 👉 transformar dados e tecnologia em soluções que geram resultado real.
 

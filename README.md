@@ -12,7 +12,7 @@ Tenho 42 anos, comecei na tecnologia há 4 anos e hoje atuo com **Dados, Machine
 
 ---
 
-Mais importante que os títulos, aplico esse conhecimento em soluções reais e projetos práticos.
+Aplico esse conhecimento no desenvolvimento de soluções práticas em dados, automação e inteligência artificial, com foco em resolver problemas reais de negócio.
 
 
 Minha missão é simples:

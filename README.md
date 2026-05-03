@@ -1,6 +1,6 @@
 # 👋 Fala aí, eu sou o Ronaldo
 
-Tenho 42 anos, comecei na tecnologia há 4 anos e hoje atuo com **Dados, Machine Learning e Automação com IA**.
+Tenho 43 anos, comecei na tecnologia há 4 anos e hoje atuo com **Dados, Machine Learning e Automação com IA**.
 
 ## 🎓 Formação
 
